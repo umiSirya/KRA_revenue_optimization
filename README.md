@@ -22,6 +22,8 @@ Kenya's tax revenue landscape is complex with multiple tax heads growing at diff
 | `key-revenue-drivers-for-kenya.csv` | Key initiatives driving revenue collection (e.g. Tax Amnesty, Debt Collection) with collection figures in Bn Ksh | 6 |
 | `performance-of-key-tax-heads.csv` | Performance of major tax categories (e.g. PAYE, VAT, Corporation Tax) with revenue and growth % | 6 |
 
+**Data Source:** [Kenya Budget Brief 2025 — Open Africa](https://open.africa/dataset/kenyabudgetbrief2025)
+
 ---
 
 ## Tools & Technologies
@@ -76,15 +78,15 @@ Projected Revenue = Current Revenue × (1 + Growth Rate / 100)
 ## Key Insights
 
 ### Revenue Drivers
-- **Debt Collection Initiatives** is the biggest revenue driver at **Ksh 103.39 Bn** — nearly double the second largest
+- **Debt Collection Initiatives** is the biggest revenue driver at **Ksh 103.39 Bn**  nearly double the second largest
 - **Anti-Corruption Measures** contributes the least at **Ksh 4.22 Bn**
 - The top 2 drivers (Debt Collection + Dispute Resolution) account for over **62%** of total driver revenue
 
 ### Tax Head Performance
-- **PAYE dominates** total tax revenue at **43.7%** (Ksh 543 Bn) — Kenya's tax base is heavily dependent on employment income
-- **Capital Gains Tax** has the highest growth rate at **49.5%** but contributes only **0.7%** of total revenue — high growth on a small base
+- **PAYE dominates** total tax revenue at **43.7%** (Ksh 543 Bn)  Kenya's tax base is heavily dependent on employment income
+- **Capital Gains Tax** has the highest growth rate at **49.5%** but contributes only **0.7%** of total revenue high growth on a small base
 - **PAYE + Domestic VAT** together account for **69%** of all tax revenue a concentration risk for Kenya's fiscal policy
-- **PAYE adds the most absolute value** in projected revenue at **+Ksh 52.7 Bn** despite having a modest 9.7% growth rate — a classic base effect
+- **PAYE adds the most absolute value** in projected revenue at **+Ksh 52.7 Bn** despite having a modest 9.7% growth rate a classic base effect
 
 ### The Base Effect
 > Capital Gains Tax grows at 49.5% but adds only Ksh 4 Bn. PAYE grows at 9.7% but adds Ksh 52.7 Bn. Growth rate alone does not tell the full story the size of the base matters just as much.
