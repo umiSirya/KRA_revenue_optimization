@@ -83,11 +83,11 @@ Projected Revenue = Current Revenue × (1 + Growth Rate / 100)
 ### Tax Head Performance
 - **PAYE dominates** total tax revenue at **43.7%** (Ksh 543 Bn) — Kenya's tax base is heavily dependent on employment income
 - **Capital Gains Tax** has the highest growth rate at **49.5%** but contributes only **0.7%** of total revenue — high growth on a small base
-- **PAYE + Domestic VAT** together account for **69%** of all tax revenue — a concentration risk for Kenya's fiscal policy
+- **PAYE + Domestic VAT** together account for **69%** of all tax revenue a concentration risk for Kenya's fiscal policy
 - **PAYE adds the most absolute value** in projected revenue at **+Ksh 52.7 Bn** despite having a modest 9.7% growth rate — a classic base effect
 
 ### The Base Effect
-> Capital Gains Tax grows at 49.5% but adds only Ksh 4 Bn. PAYE grows at 9.7% but adds Ksh 52.7 Bn. Growth rate alone does not tell the full story — the size of the base matters just as much.
+> Capital Gains Tax grows at 49.5% but adds only Ksh 4 Bn. PAYE grows at 9.7% but adds Ksh 52.7 Bn. Growth rate alone does not tell the full story the size of the base matters just as much.
 
 ---
 
