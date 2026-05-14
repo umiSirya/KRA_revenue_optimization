@@ -6,7 +6,7 @@ This project analyses two government revenue datasets from the Kenya Revenue Aut
 ---
 
 ## Problem Statement
-Kenya's tax revenue landscape is complex — with multiple tax heads growing at different rates and several revenue drivers contributing varying amounts. This project answers the following key questions:
+Kenya's tax revenue landscape is complex with multiple tax heads growing at different rates and several revenue drivers contributing varying amounts. This project answers the following key questions:
 
 - Which revenue driver brings in the most money?
 - Which tax head is growing the fastest?
